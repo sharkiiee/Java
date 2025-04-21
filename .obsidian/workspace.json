@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Methods in java.md",
+                "file": "Notes/Abstract and Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods in java"
+              "title": "Abstract and Interface"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,8 +165,9 @@
   },
   "active": "5a506c67c711b8a9",
   "lastOpenFiles": [
-    "Notes/Loop.md",
     "Notes/Methods in java.md",
+    "Notes/Abstract and Interface.md",
+    "Notes/Loop.md",
     "Notes/01_Introduction to Java.md",
     "Notes/Types of languages.md",
     "Notes"
